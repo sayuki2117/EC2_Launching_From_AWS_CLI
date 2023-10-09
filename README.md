@@ -1,4 +1,4 @@
-# ========Creating/Launch an EC2 instance on AWS CLI Process========
+# =Creating/Launch an EC2 instance on AWS CLI Process=
 To be able to launch an EC2 Instance in AWS CLI, one have to download, install and configure the AWS CLI application on his computer.
 
 ## Download, Install, and Configuration of AWS-CLI on my Computer
